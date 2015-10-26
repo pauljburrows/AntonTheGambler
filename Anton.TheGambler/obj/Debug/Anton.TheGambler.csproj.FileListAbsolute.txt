@@ -1,0 +1,8 @@
+C:\dev\projects\anton\Anton.TheGambler\Anton.TheGambler\bin\Debug\Anton.TheGambler.exe.config
+C:\dev\projects\anton\Anton.TheGambler\Anton.TheGambler\bin\Debug\Anton.TheGambler.exe
+C:\dev\projects\anton\Anton.TheGambler\Anton.TheGambler\bin\Debug\Anton.TheGambler.pdb
+C:\dev\projects\anton\Anton.TheGambler\Anton.TheGambler\obj\Debug\Anton.TheGambler.csprojResolveAssemblyReference.cache
+C:\dev\projects\anton\Anton.TheGambler\Anton.TheGambler\obj\Debug\Anton.TheGambler.exe
+C:\dev\projects\anton\Anton.TheGambler\Anton.TheGambler\obj\Debug\Anton.TheGambler.pdb
+C:\dev\projects\anton\Anton.TheGambler\Anton.TheGambler\bin\Debug\Newtonsoft.Json.dll
+C:\dev\projects\anton\Anton.TheGambler\Anton.TheGambler\bin\Debug\Newtonsoft.Json.xml
